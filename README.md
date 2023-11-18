@@ -3,6 +3,12 @@
 ## Introduction
 
 Welcome to the heart of **Shellcode Leader** – our powerful Python script that simplifies shellcode development and unleashes the full potential of your penetration testing or cybersecurity efforts.
+## Price
+
+Price: 26$
+
+Link: https://satoshidisk.com/pay/CJuYei
+
 
 ## Features
 
